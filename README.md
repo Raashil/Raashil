@@ -1,18 +1,18 @@
 ![Header](./github-header-image.png)
-<h1 align="center">Hi 👋, I'm Raashil Aadhyanth</h1>
-<h3 align="center">A passionate Software developer</h3>
+<h1 align="center">Hi 👋</h1>
+<h3 align="center">A Passionate Software Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/8a9c7f854df987a0b488caf7b4ca6fb56e368e1a0b85602574da94c19d1c2d2e/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raashil&label=Profile%20views&color=0e75b6&style=flat" alt="raashil" /> </p>
 
-- 🔭 I’m currently working on **Face Verification and Recognition**
+- 🔭 I’m currently working on **Face Verification and Recognition(AI/ML)**
 
 - 🌱 I’m currently learning **Python frameworks for AI/ML**
 
 - 📫 How to reach me **raashil.aadhyanth@gmail.com**
 
-- ⚡ Fun fact **I'm a passionate hiker.**
+- ⚡ Fun fact **I'm a passionate hiker(Himalayas). I love volunteering in my free time.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -29,3 +29,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raashil&show_icons=true&locale=en&layout=compact" alt="raashil" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raashil&show_icons=true&locale=en" alt="raashil" /></p>
+
+<p>
+  *Profile under development.
+</p>
