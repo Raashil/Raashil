@@ -33,6 +33,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raashil&show_icons=true&locale=en" alt="raashil" /></p>
 
+<img align="center" alt="Coding" width="1400" src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif">
+
 <p>
   *Profile under development.
 </p>
