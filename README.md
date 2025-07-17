@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raashil&label=Profile%20views&color=0e75b6&style=flat" alt="raashil" /> </p>
 
-- 🔭 I’m currently working on **Generating Interview Questions for Candidates Using Large Language Models (LLMs) with Resume, LinkedIn, and GitHub as Knowledge Sources**
+- 🔧 I'm currently working on **MTA-NEXUS: Interactive Subway Station Renovation Link Management System** - A Next.js web application that manages and displays renovation documentation links for NYC subway stations using an interactive subway diagram and station list interface. 🔴 Live Demo : **https://mta-nexus.vercel.app/**
 
 - 🌱 I’m currently learning **Python frameworks for AI/ML**
 
